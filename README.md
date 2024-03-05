@@ -1,1 +1,1 @@
-# kt
+# AICE project code
