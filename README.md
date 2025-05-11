@@ -1,7 +1,7 @@
 
 ### `README.md` 예시
 
-````markdown
+
 # AICE - AI Model Serving with Flask
 
 이 리포지토리는 Keras 모델을 Flask 서버에 배포하여 실시간으로 예측을 수행하는 시스템입니다. 이 프로젝트는 AI 모델을 웹 서비스로 제공하기 위한 기본적인 서빙 구조를 제공합니다. `Flask`를 사용하여 모델을 API로 서빙하고, `Keras` 모델을 로딩하여 예측을 처리합니다.
@@ -27,7 +27,7 @@ from aicentro.loader.keras_loader import KerasLoader
 loader = KerasLoader(
     model_filename='iris-classification'  # 저장된 모델 파일명 ( .h5 제외 )
 )
-````
+
 
 ### 2. **CustomServing 클래스**
 
