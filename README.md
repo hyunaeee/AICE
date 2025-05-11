@@ -1,6 +1,4 @@
 
-### `README.md` 예시
-
 
 # AICE - AI Model Serving with Flask
 
